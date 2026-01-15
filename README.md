@@ -25,13 +25,16 @@ Here are some ideas to get you started:
 
 ## 🚀 About Me
 
-I'm a passionate **Backend / Full-Stack PHP Developer** with strong experience in **Laravel** and **Native PHP**, and solid frontend skills using **Bootstrap**.
+I'm a passionate **Backend / Full-Stack PHP Developer** with strong experience in **Laravel** and **Native PHP**, including **maintaining, refactoring, and extending legacy codebases**.
 
-I enjoy building **scalable, secure, and maintainable web applications**, whether from scratch or by improving existing systems. I value clean code, proper documentation, and continuous learning.
+I enjoy working on real-world systems — whether building applications from scratch or improving existing platforms — with a focus on **clean, scalable, and maintainable code**. I value proper documentation and continuous learning.
 
 ---
 
 ## 🛠️ Tech Stack
+
+
+::contentReference[oaicite:1]{index=1}
 
 
 - **Backend:** PHP (Native), Laravel  
@@ -53,8 +56,9 @@ I enjoy building **scalable, secure, and maintainable web applications**, whethe
 
 **Achievements**
 - 🤖 Integrated **OpenRouter AI** to automate certification conclusions and summaries  
-- 🔗 Built **REST APIs** to connect skpiso.id with CRM system  
-- 🛡️ Migrated and upgraded server OS to **Ubuntu 22.04** for better security  
+- 🔗 Developed **REST APIs** to connect legacy and modern systems  
+- 🧩 Maintained and enhanced **existing legacy PHP codebases** while adding new features  
+- 🛡️ Migrated and upgraded server OS to **Ubuntu 22.04** for improved security  
 
 **Tech:** Laravel, PHP, Bootstrap, REST API, Git, OpenRouter AI  
 
@@ -73,8 +77,9 @@ I enjoy building **scalable, secure, and maintainable web applications**, whethe
 - 🕒 Absentvri — Fingerprint attendance preview system  
 
 **Achievements**
-- 💳 Integrated **payment gateway** for e-book loan transactions  
-- 🧠 Built **fingerprint machine (.xls) data import** into MySQL for real-time attendance  
+- 🔧 Maintained, debugged, and gradually improved **legacy PHP applications**  
+- 💳 Integrated **payment gateways** for seamless transactions  
+- 🧠 Built data import solutions from **fingerprint machines (.xls)** into MySQL for real-time access  
 
 **Tech:** PHP Native, Bootstrap, MySQL, Payment Gateway, API Integration  
 
@@ -88,5 +93,5 @@ I enjoy building **scalable, secure, and maintainable web applications**, whethe
 
 ---
 
-⭐ *Feel free to explore my repositories and projects!*
+⭐ *Thanks for visiting my profile — feel free to explore my repositories!*
 
