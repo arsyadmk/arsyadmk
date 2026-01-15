@@ -34,9 +34,6 @@ I enjoy building **scalable, secure, and maintainable web applications**, whethe
 ## 🛠️ Tech Stack
 
 
-::contentReference[oaicite:1]{index=1}
-
-
 - **Backend:** PHP (Native), Laravel  
 - **Frontend:** Bootstrap  
 - **Database:** MySQL  
