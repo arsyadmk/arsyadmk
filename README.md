@@ -15,55 +15,81 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Arsyad Muhammad Khoiri 👋
+# Hi, I'm Arsyad Muhammad Khoiri 👋
 
-🌍 Sleman, Special Region of Yogyakarta, Indonesia
-💻 PHP Native & Laravel Framework | Full Stack Capable | IT Enthusiast
-🎓 Bachelor’s Computer Science – Universitas AMIKOM Yogyakarta
-🚀 About Me
+💻 **PHP Native & Laravel Developer** | Full-Stack Capable  
+🌍 Sleman, Special Region of Yogyakarta, Indonesia  
+🎓 Bachelor of Computer Science — Universitas AMIKOM Yogyakarta  
 
-Hi! I'm a passionate Backend Developer specializing in PHP & Laravel, with practical skills in Bootstrap for the frontend.
+---
 
-I love creating scalable, efficient, and maintainable web applications. I'm constantly learning and adapting new technologies to solve real-world problems and deliver value through clean and well-documented code.
-🛠️ Tech Stack
+## 🚀 About Me
 
-    Backend: PHP, Laravel
-    Frontend: Bootstrap, 
-    Database: MySQL
-    Tools: Git, Github, VSCode
+I'm a passionate **Backend / Full-Stack PHP Developer** with strong experience in **Laravel** and **Native PHP**, and solid frontend skills using **Bootstrap**.
 
-💼 Work Experience
+I enjoy building **scalable, secure, and maintainable web applications**, whether from scratch or by improving existing systems. I value clean code, proper documentation, and continuous learning.
 
-    🧑‍💻 PHP Fullstack Developer (Full-time) - Lembaga Sertifikasi Profesi Pariwisata Jana Dharma Indonesia (2024-2025)
-    App / Project :
-        •  skpiso.id professional certification process website 
-        •  simcorporate.com HRIS website 
-        •  crm.simcorporate.com Client Relation Management website 
-    Achievement :
-        •  Integrated OpenRouterAI's AI technology into a website to automate conclusion reviews and generate user certification summaries.
-        •  Developed a REST API for the skpiso.id database, enabling seamless access to client and user data by crm.simcorporate.com. 
-        •  Migrated and upgraded server OS to Ubuntu 22.04 to enhance website security. 
-    Laravel, Bootstrap, Git, REST-API, OpenRouterAi 
-        
-    🧑‍💻 PHP Fullstack Developer (Full-time & remote) - CV. Andi Global Soft (2019-2023)
-    App / Project :
-        •  Indopustaka.com Online library with ebooks 
-        •  bukuobral.com PDF ebook file storage server 
-        •  member.travezta.com 
-        •  nimastore.id Management of member cards and points of a store 
-        •  posnesia.com POS app (Landing Page) 
-        •  projeksensasi.com Foundation website for managing donors 
-        •  secskinclinic.com Voucher management at beauty clinics 
-        •  byox.co.id Dropship agent membership website with referral (admin) 
-        •  Absentvri Website preview of attendance integrated with fingerprint machine 
-    Achievement :
-        •  Integrated a third-party payment gateway for seamless loan transactions on e-book platform.
-        •  Developed a solution to import data from .xls files of fingerprint machines into an online MySQL database, enabling real-time data access and display. 
-    PHP (Native), Bootstrap, Payment Gateway Integration, fingerprint Integration, API
+---
 
-📫 Let's Connect
+## 🛠️ Tech Stack
 
-    📧 Email: arsyad96@gmail.com
-    🔗 LinkedIn: linkedin.com/in/arsyadmk
-    🌐 Website: arsyadmk.github.io
+
+::contentReference[oaicite:1]{index=1}
+
+
+- **Backend:** PHP (Native), Laravel  
+- **Frontend:** Bootstrap  
+- **Database:** MySQL  
+- **Tools:** Git, GitHub, VS Code  
+
+---
+
+## 💼 Work Experience
+
+### 🧑‍💻 PHP Full-Stack Developer — *Lembaga Sertifikasi Profesi Pariwisata Jana Dharma Indonesia*  
+📆 **2024 – 2025**
+
+**Projects**
+- 🌐 skpiso.id — Professional certification system  
+- 🌐 simcorporate.com — HRIS platform  
+- 🌐 crm.simcorporate.com — CRM system  
+
+**Achievements**
+- 🤖 Integrated **OpenRouter AI** to automate certification conclusions and summaries  
+- 🔗 Built **REST APIs** to connect skpiso.id with CRM system  
+- 🛡️ Migrated and upgraded server OS to **Ubuntu 22.04** for better security  
+
+**Tech:** Laravel, PHP, Bootstrap, REST API, Git, OpenRouter AI  
+
+---
+
+### 🧑‍💻 PHP Full-Stack Developer (Remote) — *CV. Andi Global Soft*  
+📆 **2019 – 2023**
+
+**Projects**
+- 📚 indopustaka.com — Online eBook library  
+- 📦 bukuobral.com — PDF storage server  
+- 🧾 nimastore.id — Member card & point management  
+- 💳 posnesia.com — POS landing page  
+- 🏥 secskinclinic.com — Voucher management system  
+- 👥 byox.co.id — Dropship & referral system  
+- 🕒 Absentvri — Fingerprint attendance preview system  
+
+**Achievements**
+- 💳 Integrated **payment gateway** for e-book loan transactions  
+- 🧠 Built **fingerprint machine (.xls) data import** into MySQL for real-time attendance  
+
+**Tech:** PHP Native, Bootstrap, MySQL, Payment Gateway, API Integration  
+
+---
+
+## 📫 Let’s Connect
+
+- 📧 **Email:** arsyad96@gmail.com  
+- 🔗 **LinkedIn:** [linkedin.com/in/arsyadmk](https://linkedin.com/in/arsyadmk)  
+- 🌐 **Website:** [arsyadmk.github.io](https://arsyadmk.github.io)
+
+---
+
+⭐ *Feel free to explore my repositories and projects!*
 
