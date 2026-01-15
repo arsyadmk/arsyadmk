@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi there, I'm Arsyad Muhammad Khoiri 👋
+I'm Arsyad Muhammad Khoiri 👋
 
 🌍 Sleman, Special Region of Yogyakarta, Indonesia
 💻 PHP Native & Laravel Framework | Full Stack Capable | IT Enthusiast
